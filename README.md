@@ -1,6 +1,4 @@
-# Upc.Database.Parser
-UPC database parser / crawler on go language
-
+# UPC database parser / crawler on go language
 
 You can use it:<br/>
 
